@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Paperdec
-- 👀 I’m interested in guitars and roblox
-- 🌱 I’m currently learning lua and C++ and html and java
-- 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me paperdeciscool on discord:D
-- 😄 Pronouns: kim/jun/un
-- ⚡ Fun fact: did you know green day does not only use powerchords?
-
-<!---
-Paperdec/Paperdec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+HOWDY Im paperdec im a roblox dev
+and i dream to work at roblox right now
+im just a rowdy teen but i hope to progress
+and learn C++ CSS java html lua and more!
+i will post my projects and stuff i will 
+share my code and talk i also am a guitarist 
+and like green day :P
